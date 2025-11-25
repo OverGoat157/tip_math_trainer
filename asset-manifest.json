@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tip_math_trainer/static/css/main.9715ea67.css",
+    "main.js": "/tip_math_trainer/static/js/main.b8b16a7a.js",
+    "static/js/453.9c3b6e59.chunk.js": "/tip_math_trainer/static/js/453.9c3b6e59.chunk.js",
+    "index.html": "/tip_math_trainer/index.html",
+    "main.9715ea67.css.map": "/tip_math_trainer/static/css/main.9715ea67.css.map",
+    "main.b8b16a7a.js.map": "/tip_math_trainer/static/js/main.b8b16a7a.js.map",
+    "453.9c3b6e59.chunk.js.map": "/tip_math_trainer/static/js/453.9c3b6e59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9715ea67.css",
+    "static/js/main.b8b16a7a.js"
+  ]
+}
