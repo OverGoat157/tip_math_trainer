@@ -10,6 +10,10 @@
 2. Установите зависимости: `npm install`
 3. Запустите: `npm start` (откроется на http://localhost:3000)
 
+## Ссылка на githubPages
+
+https://overgoat157.github.io/tip_math_trainer/
+
 ## Функционал
 - Генерация случайных примеров.
 - Проверка ответа с обратной связью.
